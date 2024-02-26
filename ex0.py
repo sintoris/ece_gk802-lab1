@@ -1,6 +1,6 @@
 import requests  # εισαγωγή της βιβλιοθήκης
 
-# Η δική μου λύση είναι αυτή
+# Η δική μου TELIKI λύση είναι αυτή
 def more(text):
     count = 0
     for line in text.split('\n'):
